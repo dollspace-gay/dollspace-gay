@@ -35,7 +35,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dollspace-gay&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=4&row=2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dollspace-gay&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
