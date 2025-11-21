@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dollspace-gay&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=a78bfa&text_color=c9d1d9&icon_color=00d4ff)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=dollspace-gay&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=4&row=2)
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=dollspace-gay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=dollspace-gay&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
