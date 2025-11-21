@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=dollspace-gay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=dollspace-gay&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
