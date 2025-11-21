@@ -1,17 +1,80 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dollspace-gay/dollspace-gay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hi there, I'm Doll! ✨
 
-Here are some ideas to get you started:
+### 🌌 Welcome to my digital aurora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Doll's GitHub stats](https://github-readme-stats.vercel.app/api?username=dollspace-gay)](https://github.com/dollspace-gay/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Aurora%20Borealis&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Code%20Meets%20the%20Northern%20Lights&descAlignY=55&descAlign=50" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Stats Card with Aurora Theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dollspace-gay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff87" />
+
+<!-- Top Languages Card with Aurora Theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollspace-gay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<!-- Contribution Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dollspace-gay&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff87&fire=00d4ff&currStreakLabel=a78bfa&sideNums=c9d1d9&currStreakNum=00ff87&sideLabels=a78bfa" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dollspace-gay&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=a78bfa&text_color=c9d1d9&icon_color=00d4ff)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dollspace-gay&theme=high-contrast&bg_color=0d1117&color=00ff87&line=00d4ff&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+<div align="center">
+
+![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=dollspace-gay&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 🌟 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=dollspace-gay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 "Dancing code under the northern lights" 💫
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" />
+
+</div>
