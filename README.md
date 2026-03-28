@@ -14,11 +14,11 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card with Aurora Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dollspace-gay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff87" />
+<!-- GitHub Stats Card -->
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dollspace-gay&theme=tokyonight" />
 
-<!-- Top Languages Card with Aurora Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollspace-gay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dollspace-gay&theme=tokyonight" />
 
 </div>
 
@@ -45,7 +45,12 @@
 
 <div align="center">
 
-![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=dollspace-gay&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
