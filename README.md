@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Hi there, I'm Doll! ✨
+# ✨ Hi there, It is Doll! ✨
 
-### 🌌 Welcome to my digital aurora
+### 🌌 Welcome 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Aurora%20Borealis&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Code%20Meets%20the%20Northern%20Lights&descAlignY=55&descAlign=50" />
 
